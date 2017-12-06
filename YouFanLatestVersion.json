@@ -1,6 +1,6 @@
 {
-	"versionCode": 2,
-	"versionName": "1.0.1 Beta",
-	"url": "http://7xj05n.com1.z0.glb.clouddn.com/app/youfan/youfan-1.0.1-beta-release.apk",
-	"changelog": "• 增加 私信\n• 增加 随便看看\n• 增加 时间线消息快捷操作(长按)\n• 优化 本地缓存逻辑\n• 修复 部分故障"
+	"versionCode": 3,
+	"versionName": "1.0.2",
+	"url": "http://7xj05n.com1.z0.glb.clouddn.com/app/youfan/youfan-1.0.2-release.apk",
+	"changelog": "• 修复 小米系统从相册中选择照片\n• 修复 TL 偶发照片显示失败问题\n• 新增 照片保存和分享\n• 新增 发布消息页快速选择最近照片\n• 新增 自动清理本地消息缓存\n• 新增 防止首页返回键意外退出"
 }
