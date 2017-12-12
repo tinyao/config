@@ -1,6 +1,6 @@
 {
-	"versionCode": 3,
-	"versionName": "1.0.2",
-	"url": "http://7xj05n.com1.z0.glb.clouddn.com/app/youfan/youfan-1.0.2-stable-release.apk",
-	"changelog": "• 修复 小米系统从相册中选择照片\n• 修复 TL 偶发照片显示失败问题\n• 新增 照片保存和分享\n• 新增 发布消息页快速选择最近照片\n• 新增 自动清理本地消息缓存\n• 新增 防止首页返回键意外退出"
+	"versionCode": 5,
+	"versionName": "1.1.0",
+	"url": "http://7xj05n.com1.z0.glb.clouddn.com/app/youfan/youfan-1.1.0-beta-release.apk",
+	"changelog": "• 新增 夜间模式，夜间刷饭更舒适\n• 支持 其他应用照片文字分享到有饭\n• 修复 阅读提及消息后，自动清除通知\n• 修复 若干已知崩溃问题"
 }
