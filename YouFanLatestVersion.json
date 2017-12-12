@@ -1,6 +1,6 @@
 {
-	"versionCode": 3,
+	"versionCode": 5,
 	"versionName": "1.1.0",
-	"url": "http://7xj05n.com1.z0.glb.clouddn.com/app/youfan/youfan-1.1.0-beta-release.apk",
+	"url": "http://7xj05n.com1.z0.glb.clouddn.com/app/youfan/youfan-1.1.0-release.apk",
 	"changelog": "• 新增 夜间模式，夜间刷饭更舒适\n• 支持 其他应用照片文字分享到有饭\n• 修复 阅读提及消息后，自动清除通知\n• 修复 若干已知崩溃问题"
 }
