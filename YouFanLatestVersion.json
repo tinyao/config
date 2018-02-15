@@ -1,6 +1,6 @@
 {
-	"versionCode": 11,
-	"versionName": "1.1.1",
-	"url": "http://7xj05n.com1.z0.glb.clouddn.com/app/youfan/youfan-1.1.1-release.apk",
-	"changelog": "• 支持 发饭失败保存草稿和重试\n• 支持 桌面图标快捷方式 (7.0+)\n• 支持 通知合并 (7.0+)\n• 支持 复制消息文本\n• 支持 打开饭否消息链接和用户链接\n• 改进 饭龄算法 (感谢@饭小默)\n• 修复 8.0 偶发闪退问题\n• 修复 下载图片不可见问题\n• 修复 其他已知故障"
+	"versionCode": 13,
+	"versionName": "1.1.2",
+	"url": "http://7xj05n.com1.z0.glb.clouddn.com/app/youfan/youfan-stable-1.1.2-release.apk",
+	"changelog": "• 支持 滑动返回\n• 优化 长图浏览\n• 优化 网络异常处理\n• 优化 通知检查和处理\n• 重构 网络和本地缓存逻辑\n• 修复 已删除的提及消息仍显示问题\n• 修复 分享图片发布失败问题"
 }
