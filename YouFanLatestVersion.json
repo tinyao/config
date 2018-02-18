@@ -1,6 +1,6 @@
 {
-	"versionCode": 13,
-	"versionName": "1.1.2",
-	"url": "http://7xj05n.com1.z0.glb.clouddn.com/app/youfan/youfan-stable-1.1.2-release.apk",
-	"changelog": "• 支持 滑动返回\n• 优化 长图浏览\n• 优化 网络异常处理\n• 优化 通知检查和处理\n• 重构 网络和本地缓存逻辑\n• 修复 已删除的提及消息仍显示问题\n• 修复 分享图片发布失败问题"
+	"versionCode": 15,
+	"versionName": "1.1.3",
+	"url": "http://7xj05n.com1.z0.glb.clouddn.com/app/youfan/youfan-1.1.3-release.apk",
+	"changelog": "😅 修复一个发图失败的重大 Bug"
 }
