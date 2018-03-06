@@ -1,6 +1,6 @@
 {
-	"versionCode": 15,
-	"versionName": "1.1.3",
-	"url": "http://7xj05n.com1.z0.glb.clouddn.com/app/youfan/youfan-1.1.3-release.apk",
-	"changelog": "😅 修复一个发图失败的重大 Bug"
+	"versionCode": 16,
+	"versionName": "1.1.4",
+	"url": "http://7xj05n.com1.z0.glb.clouddn.com/app/youfan/youfan-1.1.4-release.apk",
+	"changelog": "- 调整 部分页面设计\n- 修复 已知崩溃问题\n- 修复 已删除提及消息仍被本地缓存问题"
 }
