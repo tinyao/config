@@ -1,6 +1,6 @@
 {
 	"versionCode": 19,
 	"versionName": "1.1.5",
-	"url": "http://7xj05n.com1.z0.glb.clouddn.com/app/youfan/youfan-1.1.5-release-fixed.apk",
-	"changelog": "- 修复 快捷回复时消息不匹配的问题\n- 修复 几个闪退问题"
+	"url": "http://7xj05n.com1.z0.glb.clouddn.com/app/youfan/youfan-1.1.6-release.apk",
+	"changelog": "- 修复 通知检查时错误信息提示\n- 修复 部分机型发布照片旋转 90 度问题\n- 修复 支持 Chrome CustomTabs (试验)"
 }
