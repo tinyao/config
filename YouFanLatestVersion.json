@@ -1,6 +1,6 @@
 {
-	"versionCode": 21,
-	"versionName": "1.1.7",
-	"url": "http://7xj05n.com1.z0.glb.clouddn.com/app/youfan/youfan-1.1.7-release.apk",
+	"versionCode": 20,
+	"versionName": "1.1.6",
+	"url": "http://7xj05n.com1.z0.glb.clouddn.com/app/youfan/youfan-1.1.6-release.apk",
 	"changelog": "- 修复 图片上传失败率高的问题\n- 支持 回复消息中的全部用户"
 }
