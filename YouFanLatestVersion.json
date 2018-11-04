@@ -1,6 +1,7 @@
 {
-	"versionCode": 22,
-	"versionName": "1.1.7",
-	"url": "https://zico.oss-cn-beijing.aliyuncs.com/youfan/youfan-1.1.7-release.apk",
-	"changelog": "- 修复 图片上传失败率高的问题\n- 支持 回复消息中的全部用户"
+	"versionCode": 29,
+	"versionName": "1.1.8",
+	"url": "https://zico.oss-cn-beijing.aliyuncs.com/youfan/youfan-1.1.8-release.apk",
+	"changelog": "emmm，迎来半年小更新\n- 优化 应用冷启动速度，拒绝白屏\n- 优化 时间轴分页加载速度\n- 修复 部分机型图片旋转问题，这次是真的\n- 增加 隐私协议声明，Google Play 已经通知好几遍了\n- 增加 适配 Android 9.0
+"
 }
