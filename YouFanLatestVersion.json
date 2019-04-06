@@ -1,7 +1,6 @@
 {
-	"versionCode": 29,
-	"versionName": "1.1.8",
-	"url": "https://zico.oss-cn-beijing.aliyuncs.com/youfan/youfan-1.1.8-release.apk",
-	"changelog": "emmm，迎来半年小更新\n- 优化 应用冷启动速度，拒绝白屏\n- 优化 时间轴分页加载速度\n- 修复 部分机型图片旋转问题，这次是真的\n- 增加 隐私协议声明，Google Play 已经通知好几遍了\n- 增加 适配 Android 9.0
-"
+	"versionCode": 31,
+	"versionName": "1.1.9",
+	"url": "https://zico.oss-cn-beijing.aliyuncs.com/youfan/youfan-1.1.9-release.apk",
+	"changelog": "春天来了，发布个小更新\n\n- [增加] 图片查看支持下拉返回\n- [修复] 发消息页面丢失草稿问题\n- [修复] 又能发 GIF 图片了"
 }
