@@ -1,6 +1,6 @@
 {
-	"versionCode": 31,
-	"versionName": "1.1.9",
-	"url": "https://zico.oss-cn-beijing.aliyuncs.com/youfan/youfan-1.1.9-release.apk",
-	"changelog": "春天来了，发布个小更新\n\n- [增加] 图片查看支持下拉返回\n- [修复] 发消息页面丢失草稿问题\n- [修复] 又能发 GIF 图片了"
+	"versionCode": 32,
+	"versionName": "1.1.10",
+	"url": "https://zico.oss-cn-beijing.aliyuncs.com/youfan/youfan-1.1.10-release.apk",
+	"changelog": "好久不见，修复了几个问题。\n\n- 修复 提及和关注请求提醒\n- 修复 发饭页面自动弹出键盘\n- 修复 部分崩溃问题\n"
 }
