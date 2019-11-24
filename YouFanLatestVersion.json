@@ -1,6 +1,6 @@
 {
 	"versionCode": 32,
 	"versionName": "1.1.10",
-	"url": "https://zico.oss-cn-beijing.aliyuncs.com/youfan/youfan-1.1.10-release.apk",
-	"changelog": "好久不见，修复了几个问题。\n\n- 修复 提及和关注请求提醒\n- 修复 发饭页面自动弹出键盘\n- 修复 部分崩溃问题\n"
+	"url": "https://zico.oss-cn-beijing.aliyuncs.com/youfan/youfan-latest.apk",
+	"changelog": "适配饭否特色 HTTPS。\n\n另：对此次饭否突然「升级」表示不满"
 }
