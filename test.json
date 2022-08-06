@@ -1,12 +1,14 @@
-[
-  {
-    "name": "方可成",
-    "description": "传播学博士，在香港教书，不务正业搞了很多其他东西hhh",
-    "avatar": "https://dl.airtable.com/.attachmentThumbnails/27e3e338d7a2b29059d0b9750e827738/2dcf7547"
-  },
-  {
-    "name": "瓦恁",
-    "description": "周三晚上8:00-10:00在踢球",
-    "avatar": "https://dl.airtable.com/.attachmentThumbnails/0b1aa1b22108c9b50c1d801b17e92831/d0810d98"
-  }
-]
+{
+"users":[
+    {
+      "name": "方可成",
+      "description": "传播学博士，在香港教书，不务正业搞了很多其他东西hhh",
+      "avatar": "https://dl.airtable.com/.attachmentThumbnails/27e3e338d7a2b29059d0b9750e827738/2dcf7547"
+    },
+    {
+      "name": "瓦恁",
+      "description": "周三晚上8:00-10:00在踢球",
+      "avatar": "https://dl.airtable.com/.attachmentThumbnails/0b1aa1b22108c9b50c1d801b17e92831/d0810d98"
+    }
+  ]
+}
