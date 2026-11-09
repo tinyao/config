@@ -2,5 +2,5 @@
 	"versionCode": 36,
 	"versionName": "1.2.0",
 	"url": "https://github.com/tinyao/app.zao.im/raw/refs/heads/gh-pages/youfan/youfan-1.2.0.apk",
-	"changelog": "时隔多年的维护更新：\n· 修复发消息、发图不稳定的问题：网络超时不再误报失败，发图更清晰、更可靠\n· 适配 Android 16，支持暗色模式和系统返回手势\n· 新增「备份我的消息」「快捷访问」和黑名单，发图时可直接选最近的照片\n· 修复收藏翻页漏页、后台通知不工作等问题\n需要 Android 10 及以上"
+	"changelog": "时隔多年的维护更新：\n· 修复发消息、发图不稳定\n· 适配 Android 16\n· 支持暗色模式和返回手势\n· 新增消息备份、快捷访问\n· 新增黑名单、最近照片\n· 修复收藏漏页、通知失效\n需要 Android 10+"
 }
