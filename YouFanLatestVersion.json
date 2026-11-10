@@ -1,6 +1,6 @@
 {
-	"versionCode": 36,
-	"versionName": "1.2.0",
-	"url": "https://app.zao.im/youfan/youfan-1.2.0.apk",
-	"changelog": "时隔多年的维护更新：\n· 修复发消息、发图不稳定问题\n· 适配 Android 16\n· 支持暗色模式和返回手势\n· 新增消息备份、快捷访问\n· 新增黑名单\n· 修复收藏漏页、通知失效\n"
+	"versionCode": 38,
+	"versionName": "1.2.1",
+	"url": "https://app.zao.im/youfan/youfan-1.2.1.apk",
+	"changelog": "1.2.1：\n· 再次优化了发图的稳定性\n· 发送失败时说明原因\n· 转发时光标回到最前面\n· 新增统计分析和崩溃日志上报\n"
 }
